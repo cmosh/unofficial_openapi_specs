@@ -13107,11 +13107,6 @@ paths:
           name: key
           required: true
           type: string
-        - description: '<a href="https://trello.com/docs/gettingstarted/index.html#getting-a-token-from-a-user"  target="_blank">Getting a token from a user</a>'
-          in: query
-          name: token
-          required: true
-          type: string
       responses:
         '200':
           description: Success
@@ -13135,11 +13130,6 @@ paths:
         - description: '<a href="https://trello.com/1/appKey/generate"  target="_blank">Generate your application key</a>'
           in: query
           name: key
-          required: true
-          type: string
-        - description: '<a href="https://trello.com/docs/gettingstarted/index.html#getting-a-token-from-a-user"  target="_blank">Getting a token from a user</a>'
-          in: query
-          name: token
           required: true
           type: string
       responses:
@@ -13172,11 +13162,6 @@ paths:
           name: key
           required: true
           type: string
-        - description: '<a href="https://trello.com/docs/gettingstarted/index.html#getting-a-token-from-a-user"  target="_blank">Getting a token from a user</a>'
-          in: query
-          name: token
-          required: true
-          type: string
       responses:
         '200':
           description: Success
@@ -13205,11 +13190,6 @@ paths:
         - description: '<a href="https://trello.com/1/appKey/generate"  target="_blank">Generate your application key</a>'
           in: query
           name: key
-          required: true
-          type: string
-        - description: '<a href="https://trello.com/docs/gettingstarted/index.html#getting-a-token-from-a-user"  target="_blank">Getting a token from a user</a>'
-          in: query
-          name: token
           required: true
           type: string
       responses:
@@ -13242,11 +13222,6 @@ paths:
           name: key
           required: true
           type: string
-        - description: '<a href="https://trello.com/docs/gettingstarted/index.html#getting-a-token-from-a-user"  target="_blank">Getting a token from a user</a>'
-          in: query
-          name: token
-          required: true
-          type: string
       responses:
         '200':
           description: Success
@@ -13274,11 +13249,6 @@ paths:
         - description: '<a href="https://trello.com/1/appKey/generate"  target="_blank">Generate your application key</a>'
           in: query
           name: key
-          required: true
-          type: string
-        - description: '<a href="https://trello.com/docs/gettingstarted/index.html#getting-a-token-from-a-user"  target="_blank">Getting a token from a user</a>'
-          in: query
-          name: token
           required: true
           type: string
       responses:
